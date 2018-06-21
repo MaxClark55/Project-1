@@ -1,4 +1,4 @@
-const selectedCuisine = ['Greek', 'Italian', 'Thai', 'American', 'Indian', 'Chinese', 'Japanese'];
+const selectedCuisine = ['Greek', 'Italian', 'Thai', 'American', 'Indian', 'Chinese', 'Japanese', 'Dessert'];
 const ingredientsArray = [];
 console.log(selectedCuisine);
 console.log(ingredientsArray);
