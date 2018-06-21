@@ -1,8 +1,5 @@
 const selectedCuisine = ['Greek', 'Italian', 'Thai', 'American', 'Indian', 'Chinese', 'Japanese'];
-const ingredientsArray = ['tofu', 'brussel sprouts', 'spinach', 'egg whites', 'Himalayan sea salt', 'broccoli slaw', 'coffee', 'matcha', 'almond milk', 
-    'watermelon', 'blueberries', 'apple', 'kale', 'cayenne', 'banana', 'almond butter', 'cinnamon', 'cauliflower', 'sweet potato', 'pulled chicken', 
-    'pesto', 'edamame pasta', 'roasted garlic', 'olive oil', 'fresh ground pepper', 'salmon', 'lemon', 'ginger', 'curry powder', 'dark chocolate', 
-    'red pepper flakes', 'cucumber', 'chick pea', 'hummus', 'almonds', 'bing cherries'];
+const ingredientsArray = [];
 console.log(selectedCuisine);
 console.log(ingredientsArray);
 
@@ -50,9 +47,28 @@ var location = function() {
 // returns cuisine places here if dining out in the selection.
 // 
 function changeOfPlans() {
-    // displays alternatives.
+    // toggles alternatives. button click used as a toggle to the other option.
+    // if (cuisinePlaces != true) {
+        //return cookAtHome;
+        //} else {
+            //do nothing
+        //}
+    //}    
 }
-// 
+
 function cookAtHome() {
     // where we call Yummly for the ingredients and return recipes.
+    //let chosenCuisine == selectedCuisine;
+    //let chosenIngredients = user's input;
+    //chosenIngredients.push(ingredientsArray[]);
+    //const queryURL = "http://api.yummly.com/v1/api/recipes?_app_id=app-id&_app_key=app-key&your _search_parameters";
+    //$.ajax({
+        //url: queryURL,
+        //method: "GET"
+    //}).then(function(response){
+        //console.log(response);
+        //console.log(queryURL);
+        //var results = response.data;
+        //console.log(results);
+    //});
 }
