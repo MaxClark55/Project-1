@@ -1,0 +1,12 @@
+#body1 {
+    font-family: 'Encode Sans Condensed', sans-serif;
+    background-image: url("assests/images/dinnerTable1.jpg");
+    background-size: 100%;
+}
+
+#jumbotron {
+    background-color: rgba(255, 249, 192, 0.75);
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+}
