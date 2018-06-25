@@ -11,39 +11,12 @@
     text-align: center;
 }
 
-.usa {
-    width: 50%;
-    height:50%;
-}
-.gd{
-    width: 50%;
-    height:50%;
+#main{
+    text-align: center;
+    width: 700px;
+    height: 500px;
 }
 
-.italy{
-    width: 50%;
-    height:50%;
-}
-.thai{
-    width: 50%;
-    height:50%;
-}
-
-.ind{
-    width: 50%;
-    height:50%;
-}
-
-.china{
-    width: 50%;
-    height:50%;
-}
-
-.jap{
-    width: 50%;
-    height:50%;
-}
-.sweets{
-    width: 50%;
-    height:50%;
+#carouselExampleIndicators{
+    text-align: center;
 }
